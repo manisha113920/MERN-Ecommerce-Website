@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "manisha"]
+	url = https://github.com/manisha113920/MERN-Ecommerce-Website
+	fetch = +refs/heads/*:refs/remotes/manisha/*
+[remote "mani"]
+	url = https://github.com/manisha113920/MERN-Ecommerce-Website
+	fetch = +refs/heads/*:refs/remotes/mani/*
+[remote "enter"]
+	url = https://github.com/manisha113920/MERN-Ecommerce-Website
+	fetch = +refs/heads/*:refs/remotes/enter/*
+[remote "ma"]
+	url = https://github.com/manisha113920/MERN-Ecommerce-Website.git
+	fetch = +refs/heads/*:refs/remotes/ma/*
